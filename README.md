@@ -1,2 +1,2 @@
 # Projects
-This repository contains all the articles with their developed codes.
+This repository contains articles with their developed codes.
